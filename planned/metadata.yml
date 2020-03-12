@@ -1,0 +1,12 @@
+---
+:id: 16310945
+:submitters:
+- :name: John Ferry
+  :email: john.w.ferry@duke.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-04-02 05:23:58.771695000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-04-01 22:23:58.771695000 Z
+:status: processed
+:score: 100.0
